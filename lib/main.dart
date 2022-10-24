@@ -18,7 +18,7 @@ class _AppState extends State<App> {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Weather App',
+      title: 'Gcuwa Weather App',
       home: HomePage(),
     );
   }
